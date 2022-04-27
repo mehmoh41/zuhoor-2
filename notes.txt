@@ -1,0 +1,20 @@
+-- TODOS
+search post
+infinite scroll
+single post type
+
+
+
+-- UNSURE
+tags
+
+
+-- DONE
+pagination
+single page
+navbar working
+recent post
+categories
+blog
+
+
